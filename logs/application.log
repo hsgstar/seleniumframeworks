@@ -1,0 +1,8 @@
+2026-04-29 20:12:51 [main] INFO  Log - Starting Selenium Webdriver...................
+2026-04-29 20:13:01 [main] INFO  Log - Navigating.......................
+2026-04-29 20:13:05 [main] INFO  Log - Starting LoginTest
+2026-04-29 20:13:05 [main] INFO  Log - Enter the username
+2026-04-29 20:13:06 [main] INFO  Log - Enter the password
+2026-04-29 20:13:06 [main] INFO  Log - Click the Login btn
+2026-04-29 20:13:07 [main] INFO  Log - Verifying the title
+2026-04-29 20:13:07 [main] INFO  Log - Closing the browser
